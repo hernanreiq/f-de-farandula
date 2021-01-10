@@ -78,7 +78,7 @@ main::after {
 }
 main h2 {
 	margin: 50px 0 20px 0;
-	color: aqua;
+	color: white;
 	background-color: rgb(59, 59, 59);
 	text-align: center;
 	border-radius: 10px;
@@ -134,7 +134,7 @@ aside::after {
 	clear: both;
 }
 aside h2 {
-	color: aqua;
+	color: white;
 	background-color: black;
 	margin-bottom: 20px;
 	background-color: rgb(59, 59, 59);
